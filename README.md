@@ -65,9 +65,9 @@ The table below is sorted by **Company Size / Valuation / Market Cap** in descen
 
 Curated open-source software libraries, atomistic engines, and ab initio solvers.
 
-The table below is sorted by **GitHub Stars** in descending order: 🌟
+The table below is sorted by **GitHub_Stars** in descending order: 🌟
 
-| Repository | GitHub Stars | Core Focus & Capabilities | Tech Stack |
+| Repository | GitHub_Stars | Core Focus & Capabilities | Tech Stack |
 | :--- | :--- | :--- | :--- |
 | **[RDKit](https://github.com/rdkit/rdkit)** | [![Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social&color=white)](https://github.com/rdkit/rdkit/stargazers) | Premier cheminformatics toolkit: 2D/3D conformer generation, UFF/MMFF94 force-field minimization, fingerprints, and molecular descriptors. | C++, Python |
 | **[LAMMPS](https://github.com/lammps/lammps)** | [![Stars](https://img.shields.io/github/stars/lammps/lammps?style=social&color=white)](https://github.com/lammps/lammps/stargazers) | Massive parallel molecular dynamics simulator for materials, soft matter, mesoscale, and atomistic systems with extensive ML-force-field bridges. | C++, MPI, OpenMP, CUDA |
@@ -146,7 +146,7 @@ We welcome community contributions! 🙌 To add a new platform, code suite, or m
 1. **Fork this repository** 🍴
 2. **Add or edit entries in [README.md](file:///C:/Users/hp/Documents/Projects/Awesome-Quantum-Mechanics-Simulation-Molecular-Dynamics/README.md)**:
    - For SaaS tools: Include platform name, live URL, company size/valuation metric, exact starting tier price, and concrete free tier/trial limits.
-   - For Open-Source libraries: Include repository name, link, social star badge linked to stargazers, core capabilities, and tech stack. Ensure table ordering matches sorting criteria (Valuation for SaaS, GitHub Stars for OSS).
+   - For Open-Source libraries: Include repository name, link, social Stars_Badge linked to stargazers, core capabilities, and tech stack. Ensure table ordering matches sorting criteria (Valuation for SaaS, GitHub_Stars for OSS).
 3. **Verify formatting**: Ensure Markdown tables, badges, and hyperlinks render cleanly.
 4. **Submit a Pull Request** 🚀 with a brief description of the added software.
 
